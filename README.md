@@ -1,3 +1,1 @@
-# Textarea Fullscreen
-
-> IN DEVELOPMENT
+# jQuery Clear Button
